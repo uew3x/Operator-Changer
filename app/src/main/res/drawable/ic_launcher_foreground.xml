@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Главный акцентный элемент: Звезда MD3 Sparkle -->
+    <path
+        android:fillColor="#A8C7FA"
+        android:pathData="M54,28 C54,42.36 42.36,54 28,54 C42.36,54 54,65.64 54,80 C54,65.64 65.64,54 80,54 C65.64,54 54,42.36 54,28 Z" />
+
+    <!-- Сигнал оператора внутри звезды -->
+    <path
+        android:fillColor="#003062"
+        android:pathData="M54,44 C59.52,44 64,48.48 64,54 C64,59.52 59.52,64 54,64 C48.48,64 44,59.52 44,54 C44,48.48 48.48,44 54,44 Z" />
+
+    <path
+        android:fillColor="#A8C7FA"
+        android:pathData="M54,48 C57.31,48 60,50.69 60,54 C60,57.31 57.31,60 54,60 C50.69,60 48,57.31 48,54 C48,50.69 50.69,48 54,48 Z" />
+</vector>
